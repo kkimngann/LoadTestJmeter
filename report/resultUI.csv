@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1681293061277,90670,jp@gc - WebDriver Sampler,200,OK,Thread Group UI and View issue 1-1,text,true,,10490,0,2,2,https://kkimngann2.atlassian.net/browse/SP1-4,0,0,0
+1681293061277,90670,jp@gc - WebDriver Sampler,200,OK,Thread Group UI and View issue 1-1,text,true,,10490,0,2,2,https://kkimngann2.atlassian.net/browse/SP1-4,0,0,0
+1681293062123,93251,jp@gc - WebDriver Sampler,200,OK,Thread Group UI and View issue 1-2,text,true,,9289,0,1,1,https://kkimngann2.atlassian.net/browse/SP1-4,0,0,0
+1681293062123,93251,jp@gc - WebDriver Sampler,200,OK,Thread Group UI and View issue 1-2,text,true,,9289,0,1,1,https://kkimngann2.atlassian.net/browse/SP1-4,0,0,0
